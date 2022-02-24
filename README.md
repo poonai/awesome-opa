@@ -173,6 +173,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [Elasticsearch](https://github.com/open-policy-agent/contrib/tree/master/data_filter_elasticsearch) - OPA-Elasticsearch Data Filtering Example
 - [Strimzi](https://strimzi.io/) - Kafka in kubernetes, with built-in support for OPA as authorizer
 - [Google Calendar](https://github.com/anderseknert/opa-google-calendar) - Integrating OPA with the Google Calendar API
+- [Inspektor](https://github.com/poonai/inspektor) - Centralized access control for databases. It uses OPA to make access control decisions.
 
 ### Datasource Integrations Blogs and Articles
 
